@@ -1,1 +1,3 @@
-# build_series_credit_intelligence_platform
+# Credit Intelligence Platform
+
+More to come...
